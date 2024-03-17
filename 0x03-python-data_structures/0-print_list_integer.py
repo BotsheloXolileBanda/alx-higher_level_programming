@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def print_list_integer(mylists=[]):
-	 leng = len(mylists)
+def print_list_integer(mylist=[]):
+	 leng = len(mylist)
 	 for i in range(leng):
-	     print("{}".format(mylists[i]))
+	     print("{}".format(mylist[i]))
